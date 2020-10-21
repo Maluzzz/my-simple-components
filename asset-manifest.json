@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-simple-components/static/css/main.1b9bcb54.chunk.css",
+    "main.js": "/my-simple-components/static/js/main.9cea6c01.chunk.js",
+    "main.js.map": "/my-simple-components/static/js/main.9cea6c01.chunk.js.map",
+    "runtime-main.js": "/my-simple-components/static/js/runtime-main.c3908141.js",
+    "runtime-main.js.map": "/my-simple-components/static/js/runtime-main.c3908141.js.map",
+    "static/js/2.77a70c0e.chunk.js": "/my-simple-components/static/js/2.77a70c0e.chunk.js",
+    "static/js/2.77a70c0e.chunk.js.map": "/my-simple-components/static/js/2.77a70c0e.chunk.js.map",
+    "index.html": "/my-simple-components/index.html",
+    "precache-manifest.42af8635a28de5f676b731313d033222.js": "/my-simple-components/precache-manifest.42af8635a28de5f676b731313d033222.js",
+    "service-worker.js": "/my-simple-components/service-worker.js",
+    "static/css/main.1b9bcb54.chunk.css.map": "/my-simple-components/static/css/main.1b9bcb54.chunk.css.map",
+    "static/js/2.77a70c0e.chunk.js.LICENSE.txt": "/my-simple-components/static/js/2.77a70c0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3908141.js",
+    "static/js/2.77a70c0e.chunk.js",
+    "static/css/main.1b9bcb54.chunk.css",
+    "static/js/main.9cea6c01.chunk.js"
+  ]
+}
